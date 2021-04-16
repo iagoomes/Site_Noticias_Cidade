@@ -1,2 +1,2 @@
 # Site_Noticias_Cidade
- Site desenvolvido utilizando CSS puro
+ Site desenvolvido utilizando CSS puro 🚀
